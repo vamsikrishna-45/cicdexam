@@ -53,7 +53,7 @@ class Calculator{
         System.out.println("Subtraction = " + c.subtract(a,b));
         System.out.println("Multiplication = " + c.multiply(a,b));
         System.out.println("Division = " + c.divide(a,b));
-        System.out.println("Modulus = " + c.modulus(a,b));
+
 
         System.out.println("Square of a = " + c.square(a));
         System.out.println("Cube of b = " + c.cube(b));
