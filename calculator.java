@@ -7,5 +7,3 @@ public class Calculator{
         System.out.println("Addition = " + (a+b));
     }
 }
-  
-    
