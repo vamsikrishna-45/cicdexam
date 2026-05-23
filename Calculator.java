@@ -57,6 +57,10 @@ class Calculator{
 
         System.out.println("Square of a = " + c.square(a));
 
+
+        System.out.println("Cube of b = " + c.cube(b));
+
+
         System.out.println("Maximum Number = " + c.maximum(a,b));
         System.out.println("Minimum Number = " + c.minimum(a,b));
     }
